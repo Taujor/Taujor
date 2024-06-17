@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Astro.js
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: tauscherjordan933@gmail.com
-- ⚡ Fun fact: I learned to code because shopify was too expensive.
+- ⚡ Fun fact: I learned to code because I wanted to become a hacker
 
 <!---
 Taujor/Taujor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
