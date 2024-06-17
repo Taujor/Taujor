@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taujor
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React.js & Next.js
+- 🌱 I’m currently learning Astro.js
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: tauscherjordan933@gmail.com
 - ⚡ Fun fact: I learned to code because shopify was too expensive.
